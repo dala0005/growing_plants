@@ -1,1 +1,6 @@
 Write idées for the application in this text file
+--------------------------------------------------
+
+An application that that you can add new items on the list.
+Keep track of when to sow and harvest you plants.
+
